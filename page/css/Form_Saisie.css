@@ -1,0 +1,12 @@
+ul#saisie div {
+	width: 110px;
+	display: inline-block;
+}
+
+#titre {
+    text-decoration: overline;
+}
+
+.genre {
+   color: orange;
+}

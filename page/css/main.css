@@ -1,0 +1,9 @@
+table {
+	border: solid 1px;
+	border-spacing: 0;
+}
+
+td,th {
+    border: solid 0.5px;
+    border-spacing: 0;
+}
